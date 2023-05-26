@@ -1,0 +1,19 @@
+{
+  "id" : 11876,
+  "applicationName" : "TempDevApp-1_U5",
+  "description" : "",
+  "applicationUrl" : "http://",
+  "state" : null,
+  "tag" : "",
+  "repositoryType" : "GIT",
+  "repository" : "https://github.com/VijayaprasadM/TempDevApp-3-AR.git",
+  "gitRepositoryBranch" : "main",
+  "gitAaRepository" : "https://github.com/VijayaprasadM/TempDevApp-3-AAR.git",
+  "gitAaRepositoryBranch" : "main",
+  "gitResultRepository" : "https://github.com/VijayaprasadM/TempDevApp-3-RR.git",
+  "gitResultRepositoryBranch" : "main",
+  "gitAaScreenshotsRepository" : "https://github.com/VijayaprasadM/TempDevApp-3-AASR.git",
+  "gitAaScreenshotsRepositoryBranch" : "main",
+  "repositoryChanged" : false,
+  "platforms" : [ ]
+}
